@@ -87,6 +87,7 @@ For the test data, an R2 of 0.83 means that 83% of the variance in the fare_amou
 ![Screenshot 2024-06-12 214539](https://github.com/Subhrayan/Predictive-modelling-for-estimating-taxi-fare-before-ride/assets/154826702/deff1ed2-a6c9-4213-92cc-53567d46d618)
 
 ![Screenshot 2024-06-12 214720](https://github.com/Subhrayan/Predictive-modelling-for-estimating-taxi-fare-before-ride/assets/154826702/c983fbe1-255f-42f6-b516-3c88cfaba47b)
+
 The distribution of the residuals is approximately normal and has a mean of 0.052. The residuals represent the variance in the outcome variable that is not explained by the model. A normal distribution around zero is good, as it demonstrates that the model's errors are evenly distributed and unbiased.
 
 10. From the coefficients of variables, it can be concluded that for every 3.60 miles traveled, the fare increased by a mean of $7.21. Or, reduced: for every 1 mile traveled, the fare increased by a mean of $1.98. 
