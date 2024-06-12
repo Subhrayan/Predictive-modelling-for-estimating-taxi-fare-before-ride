@@ -53,25 +53,25 @@ TLC can improve their operations based on the insights and also fair pricing wil
 
 ## Key Insights 
 1. ![newplot](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/f4752e20-01ab-40e4-8685-a1b63917bc4b)
-The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
+   The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
 
 2. ![Screenshot 2024-06-12 212234](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/c51ab6cb-f437-4f41-ac67-97d260c7280a)
-The total cost of each trip also has a distribution that skews right, with most costs falling in the $5-15 range.
+    The total cost of each trip also has a distribution that skews right, with most costs falling in the $5-15 range.
 
 3. ![Screenshot 2024-06-12 212432](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/9777f23e-9e1a-4cf3-9d81-de1ffc636787)
-The distribution for tip amount is right-skewed, with nearly all the tips in the $0-3 range.
+    The distribution for tip amount is right-skewed, with nearly all the tips in the $0-3 range.
 
 4. ![newplot (1)](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/15aea15e-9870-4a5a-ab29-f4cb288863e6)
-Nearly two thirds of the rides were single occupancy, though there were still nearly 700 rides with as many as six passengers. Also, there are 33 rides with an occupancy count of zero, which doesn't make sense.
+     Nearly two thirds of the rides were single occupancy, though there were still nearly 700 rides with as many as six passengers. Also, there are 33 rides with an occupancy count of zero, which doesn't make sense.
 
 5. ![Screenshot 2024-06-12 212824](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/d14d432a-03bc-433d-94d6-70e470b043f0)
-Suprisingly, Wednesday through Saturday had the highest number of daily rides, while Sunday and Monday had the least.
+    Suprisingly, Wednesday through Saturday had the highest number of daily rides, while Sunday and Monday had the least.
 
 6. ![Screenshot 2024-06-12 212954](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/7981c215-e08f-429c-8d22-b3250f92c2b3)
-Total revenue by day follows nearly similar trend as Ride count as day. Thursday had the highest gross revenue of all days, and Sunday and Monday had the least. Interestingly, although Saturday had only 35 fewer rides than Thursday, its gross revenue was ~$6,000 less than Thursday's—more than a 10% drop.
+    Total revenue by day follows nearly similar trend as Ride count as day. Thursday had the highest gross revenue of all days, and Sunday and Monday had the least. Interestingly, although Saturday had only 35 fewer rides than Thursday, its gross revenue was ~$6,000 less than Thursday's—more than a   10% drop.
 
 7. ![Screenshot 2024-06-12 213705](https://github.com/Subhrayan/Predictive-modelling-for-estimating-taxi-fare-before-ride/assets/154826702/a9e62992-dfda-4a3d-8d78-a83125f927fb)
-Monthly revenue generally follows the pattern of monthly rides, with noticeable dips in the summer months of July, August, and September, and also one in February.
+    Monthly revenue generally follows the pattern of monthly rides, with noticeable dips in the summer months of July, August, and September, and also one in February.
 
 8. There is a statistically significant difference in the average fare amount between customers who use credit cards and customers who use cash.
 
