@@ -52,7 +52,7 @@ TLC can improve their operations based on the insights and also fair pricing wil
 - Step 11 : Building Dashboard
 
 ## Key Insights 
- 1.      ![newplot](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/f4752e20-01ab-40e4-8685-a1b63917bc4b)
+ 1. ![newplot](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/f4752e20-01ab-40e4-8685-a1b63917bc4b)
 The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
 
 ![Screenshot 2024-06-12 212234](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/c51ab6cb-f437-4f41-ac67-97d260c7280a)
