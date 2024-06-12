@@ -53,7 +53,7 @@ TLC can improve their operations based on the insights and also fair pricing wil
 
 ## Key Insights 
 1. ![newplot](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/f4752e20-01ab-40e4-8685-a1b63917bc4b)
-The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
+  The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
 
 2. ![Screenshot 2024-06-12 212234](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/c51ab6cb-f437-4f41-ac67-97d260c7280a)
 The total cost of each trip also has a distribution that skews right, with most costs falling in the $5-15 range.
