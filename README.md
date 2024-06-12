@@ -55,8 +55,7 @@ TLC can improve their operations based on the insights and also fair pricing wil
  ![newplot](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/f4752e20-01ab-40e4-8685-a1b63917bc4b)
  1. The majority of trips were journeys of less than two miles. The number of trips falls away steeply as the distance traveled increases beyond two miles
 
-![Screenshot 2024-06-12 212234](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/c51ab6cb-f437-4f41-ac67-97d260c7280a)
-2. The total cost of each trip also has a distribution that skews right, with most costs falling in the $5-15 range.
+![Screenshot 2024-06-12 212234](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/c51ab6cb-f437-4f41-ac67-97d260c7280a)2. The total cost of each trip also has a distribution that skews right, with most costs falling in the $5-15 range.
 
 ![Screenshot 2024-06-12 212432](https://github.com/Subhrayan/Bike-Share-analysis-SQL-and-Interactive-Power-BI-Dashboard/assets/154826702/9777f23e-9e1a-4cf3-9d81-de1ffc636787)
 3. The distribution for tip amount is right-skewed, with nearly all the tips in the $0-3 range.
