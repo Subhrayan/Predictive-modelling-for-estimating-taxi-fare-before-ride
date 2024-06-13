@@ -6,7 +6,7 @@ To develop a predictive model that accurately estimates New York City taxi fares
 
 ## 🔗 Links
 
-### Dashboard Link : [Taxi Trip Analysis ](https://app.powerbi.com/view?r=eyJrIjoiZjgzODZmYTctZTMyZC00NTViLWEwNjgtYWRmNDE5MTQxYmFkIiwidCI6IjYwODIzNDA4LTBlYjktNGE0Zi04ZTcxLTY2MzcwYThmNjU4NSJ9&pageName=46bea8c8461a846987a8)
+### Dashboard Link : [Taxi Fare Analysis ](https://app.powerbi.com/view?r=eyJrIjoiZjgzODZmYTctZTMyZC00NTViLWEwNjgtYWRmNDE5MTQxYmFkIiwidCI6IjYwODIzNDA4LTBlYjktNGE0Zi04ZTcxLTY2MzcwYThmNjU4NSJ9&pageName=46bea8c8461a846987a8)
 
 ### Kaggle Notebook For more details: [Click Here To Visit Kaggle Notebbok](https://www.kaggle.com/code/subhrayansamajdar/predictive-model-for-taxi-fare/notebook)
 
